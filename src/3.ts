@@ -51,3 +51,4 @@ wizard.castSpell();
 wizard.levelUp(); // Level up! New level is 16
 
 export {};
+

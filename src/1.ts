@@ -13,3 +13,4 @@ class Student {
 }
 
 export {};
+
